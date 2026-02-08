@@ -71,14 +71,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-(If separate backend/frontend requirements, install both.)
-
 ------------------------------------------------------------------------
 
 ### Step 4: Run the Backend (FastAPI)
 
 ``` bash
-cd backend
 uvicorn main:app --reload
 ```
 
@@ -95,7 +92,6 @@ http://127.0.0.1:8000/docs
 Open a second terminal and navigate to the frontend folder:
 
 ``` bash
-cd ../frontend
 streamlit run streamlit_app.py
 ```
 
