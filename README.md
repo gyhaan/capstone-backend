@@ -1,6 +1,8 @@
 Bridging the Yield Gap: Satellite and Weather-Driven Crop Monitoring for
 Climate-Vulnerable Smallholder Farmers in Rwanda
 
+LOOM VIDEO: [VIDEO LINK](https://www.loom.com/share/a43a5b5fb24b453eb7d89cd597214845)
+
 **BSc in Software Engineering**\
 **Student:** Ganza Owen Yhaan\
 **Supervisor:** Tunde Isiaq Gbadamosi\
