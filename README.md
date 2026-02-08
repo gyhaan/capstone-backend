@@ -172,7 +172,7 @@ Update `API_URL` in `streamlit_app.py` to your deployed backend URL.
 
 ### Full Flow
 
-1.  Deploy backend → get URL\
+1.  Deploy backend → [render URL\](https://capstone-backend-maef.onrender.com)
 2.  Update Streamlit code with new API URL\
 3.  Deploy Streamlit → share public link
 
